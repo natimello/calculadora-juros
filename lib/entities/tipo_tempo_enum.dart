@@ -1,0 +1,1 @@
+enum TipoTempoEnum { mensal, anual }

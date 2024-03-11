@@ -1,0 +1,1 @@
+enum TipoJurosEnum { jurosSimples, jurosCompostos }
